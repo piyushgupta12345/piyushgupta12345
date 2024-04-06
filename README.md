@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushgupta12345&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgupta12345" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
-
-- 👨‍💻 All of my projects are available at [https://piyushgupta-portfolio.netlify.app](https://piyushgupta-portfolio.netlify.app)
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **html, css, js, tailwind,react, react-redux, node js, express js, mongo db, next js**
 
