@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://piyushgupta-portfolio.netlify.app](https://piyushgupta-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://piyushgupta-portfolio.netlify.app](https://portfolio-lac-six-24.vercel.app)
 
 - 💬 Ask me about **html, css, js, tailwind,react, react-redux, node js, express js, mongo db**
 
